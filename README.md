@@ -1,6 +1,4 @@
-My expertise spans across modern web technologies and blockchain development.
-
-### Tech Stack
+### Stack
 
 **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS
 
@@ -8,7 +6,9 @@ My expertise spans across modern web technologies and blockchain development.
 
 **Blockchain:** Web3.js, Ethers.js
 
-**Tools:** Git, Docker, AWS, Vercel
+**DevOps & Infrastructure:** Docker, Kubernetes, CI/CD Pipelines, AWS (EC2, S3, Lambda), Vercel, GitHub Actions, Jenkins
+
+**Version Control & Collaboration:** Git, GitHub, GitLab
 
 ---
 
