@@ -1,46 +1,54 @@
-# Nonso Bright
+# nonso bright
 
-Software engineer in Nigeria, building onchain protocols, payments rails and AI systems.
+software engineer in nigeria building onchain protocols, payment rails, and ai systems.
 
-🌐 **[nonsobright.com](https://www.nonsobright.com)**
-
----
-
-### What I'm building
-
-- **[reply.cash](https://www.nonsobright.com/work/replycash)** — cross-border stablecoin payouts on Solana. Built the fiat off-ramp from zero, client-side zk private transfers, and geo-ranked payment rails.
-- **[PotLock](https://www.nonsobright.com/work/potlock)** — public goods funding on NEAR. Full-stack apps, SDKs and developer tooling wired to smart contracts and indexers.
-- **[Intear Swap](https://www.nonsobright.com/work/intear-swap)** — NEAR DEX aggregator client. One swap button over two execution models: signed AMM transactions and NEP-413 intents.
-- **[Zaunch](https://www.nonsobright.com/work/zaunch)** — token launches and community building.
-- **[OneFarm Africa](https://www.nonsobright.com/work/onefarm-africa)** — connecting farmers and markets across Africa.
-
-Previously shipped the official **MTN South Africa** app across iOS and Android, and client web platforms including **TAMM Abu Dhabi** at Xische.
+**[nonsobright.com](https://www.nonsobright.com)**
 
 ---
 
-### Stack
+## selected work
 
-**Languages** TypeScript · JavaScript · Rust · SQL
+**[reply.cash](https://www.nonsobright.com/work/replycash)**
+cross-border stablecoin payouts on solana. built the fiat off-ramp from zero, client-side zk private transfers, and geo-ranked payment rails.
 
-**Web** React · Next.js · React Native · Node.js
+**[potlock](https://www.nonsobright.com/work/potlock)**
+public goods funding on near. built full-stack applications, sdks, and developer tooling integrated with smart contracts and indexers.
 
-**Onchain** Solana · NEAR Protocol · smart contract integration · indexers
+**[intear swap](https://www.nonsobright.com/work/intear-swap)**
+near dex aggregator client. unified two execution models behind a single swap flow: signed amm transactions and nep-413 intents.
 
-**Data & Infra** PostgreSQL · Supabase · Docker · CI/CD · Vercel · AWS
+**[zaunch](https://www.nonsobright.com/work/zaunch)**
+token launches and community infrastructure.
+
+**[onefarm africa](https://www.nonsobright.com/work/onefarm-africa)**
+technology connecting farmers and markets across africa.
+
+previously shipped the official mtn south africa app across ios and android, alongside client web platforms including tamm abu dhabi at xische.
 
 ---
 
-### Writing
+## stack
 
-I write about building software with agents and the systems I work on at
-**[nonsobright.com/thoughts](https://www.nonsobright.com/thoughts/building-software-with-agents)**.
+`typescript` · `javascript` · `rust` · `sql`
+
+`react` · `next.js` · `react native` · `node.js`
+
+`solana` · `near` · `smart contracts` · `indexers`
+
+`postgresql` · `supabase` · `docker` · `ci/cd` · `vercel` · `aws`
 
 ---
 
-### Connect
+## writing
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.nonsobright.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonsobright/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nonsobright_)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brightswe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brightsuccess117@gmail.com)
+i write about software engineering, agents, and the systems i work on.
+
+**[building software with agents](https://www.nonsobright.com/thoughts/building-software-with-agents)**
+
+more writing at **[nonsobright.com/thoughts](https://www.nonsobright.com/thoughts)**.
+
+---
+
+## elsewhere
+
+**[website](https://www.nonsobright.com)** · **[linkedin](https://www.linkedin.com/in/nonsobright/)** · **[x](https://x.com/nonsobright_)** · **[telegram](https://t.me/brightswe)** · **[email](mailto:brightsuccess117@gmail.com)**
